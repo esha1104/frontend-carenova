@@ -109,6 +109,4 @@ CareNova provides **preliminary guidance only** and is **not a substitute** for 
 
 ---
 
-## 👩‍💻 Author
 
-Made with 💙 by **Esha Srivastava**
